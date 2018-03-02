@@ -1,5 +1,10 @@
 import java.util.Scanner;
 
+/**
+ * Starter code.
+ * What does this program do?
+ * Refactor it by creating methods to make it easier to read (and cut down on duplication)!
+ */
 public class IntroToMethods {
     public static void main(String[] args) {
 

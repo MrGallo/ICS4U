@@ -28,7 +28,7 @@ public class Arrays {
         for (int i = 0; i < students.length; i++) {
             tempArray[i] = students[i];
         }
-        tempArray[3] = "Donald";
+        tempArray[tempArray.length-1] = "Donald";
 
         students = tempArray;
         printStudents(students);

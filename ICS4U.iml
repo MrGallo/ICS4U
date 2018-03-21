@@ -7,6 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Methods" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Arrays" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/FileIO" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Classes" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

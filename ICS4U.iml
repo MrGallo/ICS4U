@@ -3,11 +3,11 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Methods" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Arrays" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/FileIO" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Classes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/FileIO" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Methods" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3.2-Class-Aggregation" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
